@@ -9,6 +9,6 @@
 - Matlab
 
 ## Acknowledgements
-Thanks [DCD](https://arxiv.org/pdf/2103.08756)
+Thanks [DCD](https://arxiv.org/pdf/2103.08756) for ideas.
 
-Thanks [StructureFlow](https://github.com/RenYurui/StructureFlow/tree/master)
+Thanks [StructureFlow](https://github.com/RenYurui/StructureFlow/tree/master) for base codes.
